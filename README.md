@@ -5,7 +5,7 @@
     <img src="https://github.com/alirazacodes/ISLAM-3.0-DAO/blob/main/scripts/assets/islam3.0-logo.gif" alt="Logo" width="300" height="200">
   </a>
 
-<h3 align="center" font="bold">A decentralized community platform of Islamic Researchers and Scholars to share and store Islamic knowledge, pass islamic laws over Blockchain</h3>
+<h3 align="center" font="bold">A decentralized Islamic Video storage platform</h3>
 
 </div>
 
@@ -13,7 +13,7 @@
 
 ![IslamTube](https://github.com/alirazacodes/ISLAM-3.0-DAO/blob/main/scripts/assets/Islam3.0-Tube.png)
 
-ISLAM 3.0 DAO is decentralized community of Islamic Researchers and Scholars governed my Islamic laws, protocols and consensus between members of the community. Members of this community will be able to **validate, authenticate** and **sign** the Islamic contents such as videos, nfts, research proposals and vice versa, before it goes to to main chain or mainnet on the blockchain. 
+IslamTube is decentralized video storage platform where users can upload Islamic videos on a decentralized platform with the risk of being controlled by any single entity. Members of this community will be able to **validate, authenticate** and **sign** the Islamic contents such as videos, hamd, naat, Quran recitation, research videos, scholars videos, education and vice versa, before it goes to to main chain or mainnet on the blockchain. 
 
 Members of community will have to register themselves with their personal details, occupation, etc. After that they will mint their details on the blockchain and an exclusive membership NFT will be granted to them, after validation of the details, selected candidates (scholars/researchers) will be given with nft-token-access in order to access different features of the platform. 
 
