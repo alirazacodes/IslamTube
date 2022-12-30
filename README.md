@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/alirazacodes/ISLAM-3.0-DAO">
-    <img src="https://github.com/alirazacodes/ISLAM-3.0-DAO/blob/main/scripts/assets/Islam3.0-Tube.png" alt="Logo" width="300" height="300">
+    <img src="https://github.com/alirazacodes/ISLAM-3.0-DAO/blob/main/scripts/assets/islam3.0-logo.gif" alt="Logo" width="300" height="200">
   </a>
 
 <h3 align="center" font="bold">A decentralized community platform of Islamic Researchers and Scholars to share and store Islamic knowledge, pass islamic laws over Blockchain</h3>
