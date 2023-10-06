@@ -51,7 +51,7 @@
     "eslint-config-next": "12.3.0",
     "eslint-plugin-import": "^2.26.0",
     "hardhat": "^2.11.2",
-    "postcss": "^8.4.16",
+    "postcss": "^8.4.31",
     "tailwindcss": "^3.1.8"
   }
 }
